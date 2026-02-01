@@ -15,15 +15,15 @@
 # 可调节参数：
 
 ```
-_InputExposure    // HDR 输入的曝光程度，防止过曝
-_PixelSize        // 像素化程度，值越大"马赛克"越大
-_DitherScale      // 抖动图案的重复平铺密度
-_Threshold        // 黑白分割的亮度阈值
-_TransitionHardness // 控制突变边缘的硬度
-_DitherStrength   // 抖动图案的可视强度
-_ShadowClean      // 纯黑区域强度，当像素原始亮度过小时刷为纯黑
-_HighlightClean   // 纯白区域强度，当像素原始亮度过大时刷为纯白
-_ColorDark/Light  // 最终渲染颜色
+InputExposure    // HDR 输入的曝光程度，防止过曝
+PixelSize        // 像素化程度
+DitherScale      // 抖动图案的重复平铺密度
+Threshold        // 黑白分割的亮度阈值
+TransitionHardness // 控制突变边缘的硬度
+DitherStrength   // 抖动图案的可视强度
+ShadowClean      // 纯黑区域强度，当像素原始亮度过小时刷为纯黑
+HighlightClean   // 纯白区域强度，当像素原始亮度过大时刷为纯白
+ColorDark/Light  // 最终渲染颜色
 ```
 
 # 更好表现
