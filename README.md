@@ -32,3 +32,4 @@ _ColorDark/Light  // 最终渲染颜色
 
 # 示例
 
+![https://github.com/Maka486/obra-dinn-postprocess/blob/main/preview.gif](https://github.com/Maka486/obra-dinn-postprocess/blob/main/preview.gif)
